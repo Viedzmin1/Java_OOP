@@ -1,7 +1,7 @@
 package org.example;
 
 public class Animal {
-    protected Strqing name;
+    protected String name;
 
     public Animal(String name) {
         this.name = name;
@@ -19,7 +19,7 @@ public class Animal {
     }
 
     void animalInfo(){
-        System.out.println("info");
+        System.out.println();
     }
     void voice(){
         System.out.println("info");
